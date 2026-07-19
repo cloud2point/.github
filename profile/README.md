@@ -1,6 +1,6 @@
 ## Cloud2Point ☁️
 
-**AWS Advanced Partner** specializing in Cloud Solutions, Artificial Intelligence & FinOps.
+**AWS Partner** specializing in Cloud Solutions, Artificial Intelligence & FinOps.
 
 ### 🚀 What We Do
 
@@ -11,13 +11,6 @@
 | 💰 **FinOps** | Cost optimization, Reserved Instances, Savings Plans |
 | 🔐 **Security** | IAM, GuardDuty, Security Hub, compliance |
 | 🏗️ **Platform Engineering** | CI/CD, IaC, observability, DevOps |
-
-### 🏆 AWS Credentials
-
-- AWS Partner Network (APN) — Advanced Partner
-- AWS Well-Architected Partner
-- 4 AWS Certified professionals
-- 12+ active customer workloads
 
 ### 📍 São Paulo, Brazil
 
