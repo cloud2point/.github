@@ -31,34 +31,24 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-### 🚀 Active Projects
-
-| Project | Domain | Stack |
-|---------|--------|-------|
-| **NutriMind** | AI-powered Nutrition Platform | Bedrock · Lambda · Next.js · Cognito |
-| **ODL Smart** | Intelligent Operations (Manufacturing) | Textract · Bedrock · DynamoDB · React |
-| **Villa Viva** | AI Procurement & Inventory (Retail) | Textract · Bedrock · Lambda · S3 |
-
-### 🏆 Certifications & Partnerships
+### 🏆 AWS Partnerships
 
 <table>
 <tr>
-<td align="center">☁️<br><strong>AWS Partner</strong></td>
+<td align="center">☁️<br><strong>Consulting Partner</strong></td>
 <td align="center">🏗️<br><strong>Well-Architected</strong></td>
-<td align="center">🤖<br><strong>GenAI Competency</strong></td>
+<td align="center">🤖<br><strong>GenAI</strong></td>
 <td align="center">💰<br><strong>FinOps</strong></td>
 <td align="center">🔐<br><strong>Security</strong></td>
 </tr>
 </table>
 
-### 👥 Team
+### 💡 Our Approach
 
-| Role | Focus |
-|------|-------|
-| **Ricardo Gulias** — CEO & Solutions Architect | Strategy, AWS Architecture, APN |
-| **Erick Mancz** — CTO | Platform Engineering, DevOps |
-| **Davi Praxedes** — Software Engineer | Full-stack Development, AI Integration |
-| **Daniel** — Developer | Frontend, Operations |
+- **Cloud-native first** — serverless, managed services, pay-per-use
+- **AI as accelerator** — generative AI to automate and optimize, not replace
+- **FinOps culture** — every dollar tracked, every resource justified
+- **Security by design** — zero trust, least privilege, compliance from day one
 
 ---
 
