@@ -18,37 +18,73 @@
 
 ### 🎯 What We Do
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   ☁️  Cloud Architecture    Serverless, Containers, Well-Architected │
-│   🤖  AI & GenAI            Bedrock, Agents, Intelligent Automation │
-│   💰  FinOps                Cost Optimization, RI/SP Strategy       │
-│   🔐  Security              IAM, GuardDuty, Zero Trust, Compliance  │
-│   🏗️  Platform Engineering  CI/CD, IaC, Observability, DevOps       │
-│   📊  Data & Analytics      Lakes, Pipelines, Real-time Insights    │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="33%">
+☁️<br><strong>Cloud Architecture</strong><br>
+<sub>Serverless · Containers<br>Well-Architected Reviews</sub>
+</td>
+<td align="center" width="33%">
+🤖<br><strong>AI & GenAI</strong><br>
+<sub>Amazon Bedrock · Agents<br>Intelligent Automation</sub>
+</td>
+<td align="center" width="33%">
+💰<br><strong>FinOps</strong><br>
+<sub>Cost Optimization<br>RI/SP Strategy</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+🔐<br><strong>Security</strong><br>
+<sub>IAM · GuardDuty · Zero Trust<br>Compliance</sub>
+</td>
+<td align="center">
+🏗️<br><strong>Platform Engineering</strong><br>
+<sub>CI/CD · IaC<br>Observability · DevOps</sub>
+</td>
+<td align="center">
+📊<br><strong>Data & Analytics</strong><br>
+<sub>Data Lakes · Pipelines<br>Real-time Insights</sub>
+</td>
+</tr>
+</table>
+
+---
 
 ### 🏆 AWS Partnerships
 
 <table>
 <tr>
-<td align="center">☁️<br><strong>Consulting Partner</strong></td>
-<td align="center">🏗️<br><strong>Well-Architected</strong></td>
+<td align="center">☁️<br><strong>Consulting<br>Partner</strong></td>
+<td align="center">🏗️<br><strong>Well-<br>Architected</strong></td>
 <td align="center">🤖<br><strong>GenAI</strong></td>
 <td align="center">💰<br><strong>FinOps</strong></td>
 <td align="center">🔐<br><strong>Security</strong></td>
 </tr>
 </table>
 
+---
+
 ### 💡 Our Approach
 
-- **Cloud-native first** — serverless, managed services, pay-per-use
-- **AI as accelerator** — generative AI to automate and optimize, not replace
-- **FinOps culture** — every dollar tracked, every resource justified
-- **Security by design** — zero trust, least privilege, compliance from day one
+<table>
+<tr>
+<td>🚀</td>
+<td><strong>Cloud-native first</strong> — serverless, managed services, pay-per-use</td>
+</tr>
+<tr>
+<td>🤖</td>
+<td><strong>AI as accelerator</strong> — generative AI to automate and optimize, not replace</td>
+</tr>
+<tr>
+<td>💰</td>
+<td><strong>FinOps culture</strong> — every dollar tracked, every resource justified</td>
+</tr>
+<tr>
+<td>🔐</td>
+<td><strong>Security by design</strong> — zero trust, least privilege, compliance from day one</td>
+</tr>
+</table>
 
 ---
 
